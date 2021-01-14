@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "81060443064",
+    "project_id": "pet-lover-uiu",
+    "storage_bucket": "pet-lover-uiu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81060443064:android:cd7eadded230c0a8a1d54d",
+        "android_client_info": {
+          "package_name": "com.example.pet_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81060443064-7ukesat2lg0qrtnio6d0eml97g8p4rvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pet_world",
+            "certificate_hash": "f9282bbe04e678ba8ed89ded0cc5c79d314d5ca0"
+          }
+        },
+        {
+          "client_id": "81060443064-uaem5qi58tm57rvhpadsqbb0tfpths0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAEN0wqZ3SXWg2TQTZB7UB1swl89ZQHd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81060443064-uaem5qi58tm57rvhpadsqbb0tfpths0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
